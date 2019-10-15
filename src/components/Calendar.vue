@@ -134,7 +134,7 @@ export default {
     details: null,
     start: null,
     end: null,
-    color: "#1976D2", // default event color
+    color: "#1976D2",
     currentlyEditing: null,
     selectedEvent: {},
     selectedElement: null,
